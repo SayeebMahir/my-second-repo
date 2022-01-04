@@ -10,3 +10,9 @@ h1{
     padding: 1%;
     border-radius:20%;
 }
+img{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 5%;
+    margin-bottom: 0%;
+}
